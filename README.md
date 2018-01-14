@@ -39,11 +39,11 @@ A collection of research papers, open sources on social choice theory or voting 
 
 - <a href="https://www.mathworks.com/matlabcentral/fileexchange/28521-election/content/election.m?requestedDomain=www.mathworks.com" target="_blank">Matlab implementation of winner determination algorithms</a>
 
-	- ** Primary votes **: Dictator, Random (Hat), First Past the Post (FPP), Runoff
+	- **Primary votes**: Dictator, Random (Hat), First Past the Post (FPP), Runoff
 	
-	- ** non-Condorcet Preferential **: Single Transferable Vote (STV or Instant Runoff, Alternative Vote), Coombs, Borda (Nanson, Baldwin), Bucklin
+	- **non-Condorcet Preferential**: Single Transferable Vote (STV or Instant Runoff, Alternative Vote), Coombs, Borda (Nanson, Baldwin), Bucklin
 	
-	- ** Condorcet **: Copeland, Kemeny-Young, RankedPairs, Schulze, Smith, Schwartz, Landau (a.k.a Uncovered set or Fishburn set), Minimax vote, Minimax Margin
+	- **Condorcet**: Copeland, Kemeny-Young, RankedPairs, Schulze, Smith, Schwartz, Landau (a.k.a Uncovered set or Fishburn set), Minimax vote, Minimax Margin
 
 - <a href="http://bolson.org/voting/vote_util/" target="_blank">Brian&#39;s Voting Utilities</a>
 - <a href="https://github.com/morinokami/social_choice" target="_blank">Python: Plurality, Runoff, Elimination Method, Borda Count, and Condorcet</a>
@@ -122,5 +122,5 @@ A collection of research papers, open sources on social choice theory or voting 
 - <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20Learning%20Mixtures%20of%20Plackett-Luce%20models%20-%20Zhao,%20Piech,%20Xia.pdf" target="_blank">Learning Mixtures of Plackett-Luce models</a>, 2016, by Zhao, Piech, Xia
 - <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20PREFERENCES%20OPTIMIZATION,%20IMPORTANCE%20LEARNING%20AND%20-%20Zhu.pdf" target="_blank">PREFERENCES OPTIMIZATION, IMPORTANCE LEARNING AND</a>, 2016, by Zhu
 - <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20Proceedings%20of%20the%203%20Workshop%20on%20Exploring%20Beyond%20the%20Worst%20Case%20In%20Computational%20Social%20Choice%20(%20EXPLORE%202016%20)%20Held%20as%20part%20of.pdf" target="_blank">Proceedings of the 3 Workshop on Exploring Beyond the Worst Case In Computational Social Choice ( EXPLORE 2016 ) Held as part of</a>, 2016
-- <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20Statistical%20evaluation%20of%20voting%20rules%20-%20Green-Armytage,%20Tideman,%20Cosman.pdf" target="_blank">Statistical evaluation of voting rules - Green</a>, 2016, by Armytage, Tideman, Cosman
+- <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20Statistical%20evaluation%20of%20voting%20rules%20-%20Green-Armytage,%20Tideman,%20Cosman.pdf" target="_blank">Statistical evaluation of voting rules</a>, 2016, by Green-Armytage, Tideman, Cosman
 - <a href="http://github.com/horsehour/socialchoice/blob/master/Paper/2016%20-%20Voting%20rules%20as%20error-correcting%20codes%20-%20Procaccia,%20Shah,%20Zick.pdf" target="_blank">Voting rules as error-correcting codes</a>, 2016, by Procaccia, Shah, Zick

@@ -8,7 +8,6 @@ A collection of research papers, open sources on social choice theory or voting 
 - <a href="http://bolson.org/voting/vote_util/" target="_blank">Brian&#39;s Voting Utilities</a>
 - <a href="https://www.illc.uva.nl/COMSOC/theses.html" target="_blank">Computational Social Choice</a>
 - <a href="https://staff.fnwi.uva.nl/u.endriss/teaching/comsoc/2011/" target="_blank">Computational Social Choice: Autumn 2011</a>
-- <a href="http://news.rpi.edu/content/2015/03/12/lirong-xia-received-nsf-career-award" target="_blank">Computer Scientist and Social Choice Expert Lirong Xia Receives NSF CAREER Award | News &amp; Events</a>
 - <a href="https://www.irit.fr/COMSOC-2016/acc.shtml" target="_blank">COMSOC-2016: Sixth International Workshop on Computational Social Choice</a>
 - <a href="https://ballotpedia.org/Condorcet_Voting#Counting_with_matrices" target="_blank">Condorcet Voting - Ballotpedia</a>
 - <a href="https://github.com/Conservatory/openstv" target="_blank">Conservatory/openstv: Latest open source version of OpenSTV voting software, which was GPL&#39;d until going proprietary in mid-2011 (apparently after 1.7).</a>
